@@ -1,2 +1,2 @@
 # Rainbow-Song-2
-A song about rainbows
+A song about rainbows (C++) 
